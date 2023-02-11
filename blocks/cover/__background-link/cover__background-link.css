@@ -1,7 +1,4 @@
 ﻿.cover__background-link {
-    position: relative;
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     position: relative;
     text-decoration: none;
