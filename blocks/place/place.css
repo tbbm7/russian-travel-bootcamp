@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: minmax(min-content, 460px) minmax(min-content, max-content);
     gap: 48px 40px;
-    margin: 0 0 8px;
+    margin: 0;
 }
   
 @media screen and (max-width: 1270px) {
@@ -24,7 +24,6 @@
     .place {
         grid-template-columns: minmax(min-content, max-content);
         gap: 32px;
-        margin-bottom: 0px;
     }
 }
   
